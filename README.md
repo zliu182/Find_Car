@@ -53,6 +53,7 @@ Follow the on-screen prompts to:
 
 ## Sample Output
 
+```
 Successful Reservation:
 -------------------------------
 Welcome to David's Car Rentals
@@ -70,6 +71,7 @@ License Plate: KML 155
 Subtotal: $51.00
 Tax: $6.63
 Total: $57.63
+```
 
 <br> 
 
